@@ -1,0 +1,44 @@
+body {
+    background-color: rgba(213, 213, 213, 0.932);
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    margin: 45px;
+}
+
+.container {
+    height: 400px;
+    width: 900px;
+    display: flex;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 25px;
+    padding-top: 50px;
+    font-size: 32px;
+    background-color: #A1BEEA;
+    border: solid lavender 20px;
+    border-radius: 10px;
+}
+
+
+.bttn {
+    width: 200px;
+    height: 60px;
+    font-size: 1.5rem;
+    background-color: lavender;
+    border: solid #A1BEEA 7px;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 50px;
+}
+
+.bttn-box {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+ 
